@@ -1,2 +1,2 @@
 # Calculator
-Containerize a simple calculator application.
+Containerize a simple web application.
